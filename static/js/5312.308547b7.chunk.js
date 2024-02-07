@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkai_microsite_react=self.webpackChunkai_microsite_react||[]).push([[5312],{5312:function(e,t,c){e.exports=c.p+"static/media/cute_robot1.53d6b165dea33308bc9b.webp"}}]);

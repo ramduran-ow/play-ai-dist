@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkai_microsite_react=self.webpackChunkai_microsite_react||[]).push([[2194],{2194:function(e,a,c){e.exports=c.p+"static/media/avocado-1.e3f058f73b47bb942e93.webp"}}]);

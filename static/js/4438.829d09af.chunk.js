@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkai_microsite_react=self.webpackChunkai_microsite_react||[]).push([[4438],{4438:function(e,t,a){e.exports=a.p+"static/media/orange_robot1.82ed427be23e8f91ac1e.webp"}}]);

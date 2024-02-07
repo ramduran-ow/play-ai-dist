@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkai_microsite_react=self.webpackChunkai_microsite_react||[]).push([[9693],{9693:function(e,i,t){e.exports=t.p+"static/media/manifesto_gradient.2dda598e1f75fefe7bde.webp"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkai_microsite_react=self.webpackChunkai_microsite_react||[]).push([[8157],{8157:function(e,a,i){e.exports=i.p+"static/media/manifesto_02.3bbd49ea0d19f9d77da3.webp"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkai_microsite_react=self.webpackChunkai_microsite_react||[]).push([[5431],{5431:function(i,e,t){i.exports=t.p+"static/media/tom_gif.1612cd780f85d536173a.gif"}}]);

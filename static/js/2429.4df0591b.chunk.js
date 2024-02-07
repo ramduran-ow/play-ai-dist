@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkai_microsite_react=self.webpackChunkai_microsite_react||[]).push([[2429],{2429:function(e,t,i){e.exports=i.p+"static/media/hotdog_16.fb568f19f06746f65677.webp"}}]);
