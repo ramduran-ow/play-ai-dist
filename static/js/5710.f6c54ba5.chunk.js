@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkai_microsite_react=self.webpackChunkai_microsite_react||[]).push([[5710],{5710:function(a,e,t){a.exports=t.p+"static/media/avocado_toast.e71e35073aaa8c180f71.webp"}}]);

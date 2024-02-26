@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkai_microsite_react=self.webpackChunkai_microsite_react||[]).push([[4051],{4051:function(e,c,t){e.exports=t.p+"static/media/robot_beach.658879021bfbc1ba7ec0.webp"}}]);

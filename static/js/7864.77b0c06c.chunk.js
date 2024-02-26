@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkai_microsite_react=self.webpackChunkai_microsite_react||[]).push([[7864],{7864:function(e,c,i){e.exports=i.p+"static/media/galileo.3802cecc7f72b75f6c18.webp"}}]);
